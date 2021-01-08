@@ -1,6 +1,6 @@
-def gimmeHalf(x, y):
+def gimmieHalf(x, y):
     if x == y/2:
         return True
     else:
         return False
-print (gimmeHalf(2, 4))
+print (gimmieHalf(2, 4))
